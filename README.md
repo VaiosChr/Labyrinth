@@ -1,0 +1,2 @@
+# Labyrinth
+A Labyrinth game
