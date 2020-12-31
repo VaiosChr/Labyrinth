@@ -1,2 +1,2 @@
 # Labyrinth
-A Labyrinth game
+A Labyrinth game, with the min-max algorithm implemented
